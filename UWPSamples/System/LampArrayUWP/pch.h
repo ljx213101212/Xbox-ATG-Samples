@@ -47,6 +47,7 @@
 #include "SimpleMath.h"
 
 #include "SnakeEffect.h"
+#include "SimpleBitmapEffect.h"
 #include "LightingManager.h"
 
 namespace DX
